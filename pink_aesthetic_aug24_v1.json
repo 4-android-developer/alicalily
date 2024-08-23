@@ -1,9 +1,9 @@
 {
   "Ads": [
     {
-      "select_ads_interstitial": "ADMOBx",
-      "select_ads_banner": "ADMOBx",
-      "select_ads_native": "ADMOBx",
+      "select_ads_interstitial": "",
+      "select_ads_banner": "",
+      "select_ads_native": "",
       "status_app": "0",
       "link_redirect": "",
       "admob_interid": "ca-app-pub-7036757467253823/5204590256",
@@ -18,7 +18,7 @@
       "applovin_inter": "595f030636638faf",
       "applovin_zone": "9f20993c3483565b",
       "select_exit": "1",
-      "on_off_category": "3",
+      "on_off_category": "2",
       "on_off_more_app": "3",
       "hpk_admob1": "",
       "hpk_admob2": "",
