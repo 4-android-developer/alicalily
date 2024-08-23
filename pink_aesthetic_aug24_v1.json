@@ -2,9 +2,9 @@
   "Ads": [
     {
       "on_off_open": "1",
-      "select_ads_interstitial": "ADMOB",
-      "select_ads_banner": "ADMOB",
-      "select_ads_native": "ADMOB",
+      "select_ads_interstitial": "ADMOBx",
+      "select_ads_banner": "ADMOBx",
+      "select_ads_native": "ADMOBx",
       "status_app": "0",
       "link_redirect": "",
       "admob_interid": "ca-app-pub-6558353411519077/8378983623",
