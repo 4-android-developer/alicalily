@@ -2,9 +2,9 @@
   "Ads": [
     {
       "on_off_open": "0",
-      "select_ads_interstitial": "ADMOB",
-      "select_ads_banner": "ADMOB",
-      "select_ads_native": "ADMOB",
+      "select_ads_interstitial": "APPLOVIN",
+      "select_ads_banner": "APPLOVIN",
+      "select_ads_native": "APPLOVIN",
       "status_app": "0",
       "link_redirect": "",
       "admob_interid": "ca-app-pub-7036757467253823/8885775426",
